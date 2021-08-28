@@ -1,0 +1,6 @@
+region = "us-west-2"
+environment = "Development"
+instance_type = "t2.micro"
+instance_ami = "ami-0c6b1d09930fac512"
+keyname = "tf-jenkins-aws"
+name="jenkins-instance"
